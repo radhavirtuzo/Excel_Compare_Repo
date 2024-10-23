@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Radha_folder\\Excel_Compare_Repo\\Excel_Compare_File\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B743B6-2767-49AD-BDCD-CCFCBEAA425C}|Excel_Compare_File\\Excel_Compare_File.csproj|e:\\radha_folder\\excel_compare_repo\\excel_compare_file\\excel_compare_file\\excel_file_compare.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B743B6-2767-49AD-BDCD-CCFCBEAA425C}|Excel_Compare_File\\Excel_Compare_File.csproj|solutionrelative:excel_compare_file\\excel_file_compare.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Excel_File_compare.aspx.cs",
+              "DocumentMoniker": "E:\\Radha_folder\\Excel_Compare_Repo\\Excel_Compare_File\\Excel_Compare_File\\Excel_File_compare.aspx.cs",
+              "RelativeDocumentMoniker": "Excel_Compare_File\\Excel_File_compare.aspx.cs",
+              "ToolTip": "E:\\Radha_folder\\Excel_Compare_Repo\\Excel_Compare_File\\Excel_Compare_File\\Excel_File_compare.aspx.cs",
+              "RelativeToolTip": "Excel_Compare_File\\Excel_File_compare.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:03:57.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
