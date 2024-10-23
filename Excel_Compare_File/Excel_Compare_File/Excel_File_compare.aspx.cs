@@ -46,6 +46,8 @@ namespace Excel_Compare_File
                     }
                     else
                     {
+                        LabelResult.Text = "No differences found.";
+                        ///hello
                         GridViewResult.Visible = false;
                     }
                 }
